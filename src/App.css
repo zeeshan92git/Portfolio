@@ -1,0 +1,15 @@
+/* App.css or global.css */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff5b;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #1665f9d7;
+    border-radius: 8px;
+    border: 2px solid  #162df92f;
+}
