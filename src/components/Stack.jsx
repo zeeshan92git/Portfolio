@@ -34,7 +34,7 @@ function TechStack() {
   return (
     <section
       id="stack"
-      className="relative w-full px-4 sm:px-10 md:px-16 py-16 sm:py-20 bg-gray-900 text-gray-100 overflow-x-hidden"
+      className="relative w-full px-4 sm:px-10 md:px-16 py-16 sm:py-20 bg-gray-900 text-gray-100 overflow-hidden"
     >
       {/* Heading */}
       <div className="text-center mb-12">
